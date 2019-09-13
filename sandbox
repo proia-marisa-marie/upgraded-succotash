@@ -1,0 +1,9 @@
+public class MyFirstJavaProgram {
+	/* 9/13/19
+	 * This will print a string
+	 */
+   
+	public ststic void main(String []args) {
+    	System.out.println("Hello World");
+  	}
+}
